@@ -1,0 +1,1 @@
+Bu projede orijinal veri seti üzerinde çeşitli manipülasyonlar uygulayarak deneysel çalışmalarla modellerde birtakım metriklere dayalı başarı kıyaslaması ve manipülasyonların etkilerinin gözlemlenmesi amaçlanmıştır.
